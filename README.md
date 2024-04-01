@@ -18,7 +18,7 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 
 #### Crypto Analytics
 - **Description:** This project provides an in-depth view of the cryptocurrency market through real-time data collection and analysis. Using Python and various libraries such as Pandas, Seaborn, and Matplotlib, it explores market trends and then presents the results through clear and understandable visualizations.
-- [View Project](https://github.com/martinvigliante/Portfolio-Projects/tree/main/Python/Crypto%20Analytics)
+- [View Project](https://github.com/martinvigliante/Portfolio-Projects/blob/main/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
 
 #### Amazon Web Scraper
 - **Description:** This Python project develops an automated process to monitor the price of a specific product on Amazon. The program checks the desired data daily and stores them in a CSV file. If it detects that the price has fallen below a preset limit, it automatically sends an email alert to the user.
