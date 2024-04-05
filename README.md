@@ -16,7 +16,7 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 
 #### Data Jobs & Skills (PostgreSQL)
 - **Description:** This project delves into a job listing using PostgreSQL to uncover remote Data Analyst positions. It investigates the key skills needed for these roles and pinpoints the ones that are highest paying. Using SQL queries, it analyzes data across multiple dimensions to optimize career development strategies for data analysts seeking remote opportunities.
-- [View Project](/SQL/PostgreSQL/Data%20Jobs%20&%20Skills.sql)
+- [View Project](/GitHub/Portfolio-Projects/SQL/PostgreSQL/Data%20Jobs%20&%20Skills/Data%20Jobs%20&%20Skills%20Portfolio%20Project.sql)
 
 ### Python Projects
 
