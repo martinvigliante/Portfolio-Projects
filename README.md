@@ -8,21 +8,25 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 
 #### Nashville Housing (SQL Server)
 - **Description:** This data cleaning project focuses on a large set of Nashville real estate records, with the goal of improving the quality and consistency of the dataset. Employing data cleaning techniques such as error identification and correction, de-duplication, and data format standardization, the structure is optimized to facilitate further analysis.
-- [View Project](/GitHub/Portfolio-Projects/SQL/SQL%20Server/Nashville%20Housing/Nashville%20Housing%20Portfolio%20Project.sql)
+- [View Project](/SQL/SQL%20Server/Nashville%20Housing/Nashville%20Housing%20Portfolio%20Project.sql)
 
 #### COVID-19 (SQL Server)
 - **Description:** This data exploration project focuses on the COVID-19 pandemic, analyzing cases, deaths, and vaccination rates. Using SQL to manipulate and visualize data, trends over time and between different regions are examined, providing a detailed view of how the pandemic and the response through vaccination have developed.
-- [View Project](/GitHub/Portfolio-Projects/SQL/SQL%20Server/COVID-19/COVID-19%20Portfolio%20Project.sql)
+- [View Project](/SQL/SQL%20Server/COVID-19/COVID-19%20Portfolio%20Project.sql)
+
+#### Data Jobs & Skills (PostgreSQL)
+- **Description:** This project delves into a job listing using PostgreSQL to uncover remote Data Analyst positions. It investigates the key skills needed for these roles and pinpoints the ones that are highest paying. Using SQL queries, it analyzes data across multiple dimensions to optimize career development strategies for data analysts seeking remote opportunities.
+- [View Project](/SQL/PostgreSQL/Data%20Jobs%20&%20Skills.sql)
 
 ### Python Projects
 
 #### Crypto Analytics
 - **Description:** This project provides an in-depth view of the cryptocurrency market through real-time data collection and analysis. Using Python and various libraries such as Pandas, Seaborn, and Matplotlib, it explores market trends and then presents the results through clear and understandable visualizations.
-- [View Project](/GitHub/Portfolio-Projects/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
+- [View Project](/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
 
 #### Amazon Web Scraper
 - **Description:** This Python project develops an automated process to monitor the price of a specific product on Amazon. The program checks the desired data daily and stores them in a CSV file. If it detects that the price has fallen below a preset limit, it automatically sends an email alert to the user.
-- [View Project](/GitHub/Portfolio-Projects/Python/Amazon%20Web%20Scraper/Amazon%20Web%20Scraper%20Portfolio%20Project.ipynb)
+- [View Project](/Python/Amazon%20Web%20Scraper/Amazon%20Web%20Scraper%20Portfolio%20Project.ipynb)
 
 ### Tableau Project
 
@@ -34,13 +38,13 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 
 #### Data Professionals Survey
 - **Description:** This Power BI project analyzes the results of a survey of data professionals, showing geographic distribution, salary differences by gender, preferred programming languages, and job profiles. In addition, it explores perceptions of the difficulty of entering the industry and satisfaction with work-life balance.
-- [View Project](/GitHub/Portfolio-Projects/Power%20BI/Data%20Professionals%20Survey/Data%20Professionals%20Survey%20Portfolio%20Project.pdf)
+- [View Project](/Power%20BI/Data%20Professionals%20Survey/Data%20Professionals%20Survey%20Portfolio%20Project.pdf)
 
 ### Excel Project
 
 #### Bike Buyers
 - **Description:** This Excel project presents a dynamic dashboard that analyzes bicycle purchasing patterns. It uses pivot tables, allowing detailed exploration by commute distance, age range, and average income. It also facilitates the analysis of purchasing trends by education, marital status, and region.
-- [View Project](/GitHub/Portfolio-Projects/Excel/Bike%20Buyers/Bike%20Buyers%20Portfolio%20Project.pdf)
+- [View Project](/Excel/Bike%20Buyers/Bike%20Buyers%20Portfolio%20Project.pdf)
 
 ## How to Use This Repository
 
