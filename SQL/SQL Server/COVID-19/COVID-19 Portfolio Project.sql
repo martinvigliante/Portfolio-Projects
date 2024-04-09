@@ -362,7 +362,7 @@ select
 	convert(varchar, date, 103) as Date,
 	format(sum(new_cases), 'N0') as [Cases per Day],
 	format(sum(new_deaths), 'N0') as [Deaths per Day],
-	format(sum(new_deaths)/sum(new_cases), 'P') as [Deaths Percentage]
+	format(sum(new_deaths)/sum(new_cases), 'P') as [Death Percentage]
 from PortfolioProject..COVID_Deaths
 where
 	coalesce(new_cases, new_deaths) is not null
@@ -373,28 +373,28 @@ order by convert(varchar, date, 23);
 /*
 Output (first 20 rows):
 
-| Date       | Cases per Day | Deaths per Day | Deaths Percentage |
-| ---------- | ------------- | -------------- | ----------------- |
-| 05/01/2020 | 2             | 3              | 150.00%           |
-| 12/01/2020 | 45            | 1              | 2.22%             |
-| 19/01/2020 | 90            | 2              | 2.22%             |
-| 26/01/2020 | 1,896         | 56             | 2.95%             |
-| 02/02/2020 | 12,538        | 310            | 2.47%             |
-| 09/02/2020 | 22,985        | 545            | 2.37%             |
-| 16/02/2020 | 31,449        | 864            | 2.75%             |
-| 23/02/2020 | 9,242         | 690            | 7.47%             |
-| 01/03/2020 | 8,267         | 515            | 6.23%             |
-| 08/03/2020 | 20,207        | 649            | 3.21%             |
-| 15/03/2020 | 60,434        | 2,654          | 4.39%             |
-| 22/03/2020 | 171,320       | 9,697          | 5.66%             |
-| 29/03/2020 | 351,479       | 22,283         | 6.34%             |
-| 05/04/2020 | 466,289       | 36,846         | 7.90%             |
-| 12/04/2020 | 524,359       | 47,675         | 9.09%             |
-| 19/04/2020 | 507,006       | 49,957         | 9.85%             |
-| 26/04/2020 | 540,268       | 44,409         | 8.22%             |
-| 03/05/2020 | 545,638       | 41,130         | 7.54%             |
-| 10/05/2020 | 581,533       | 38,923         | 6.69%             |
-| 17/05/2020 | 610,590       | 36,165         | 5.92%             |
+| Date       | Cases per Day | Deaths per Day | Death Percentage |
+| ---------- | ------------- | -------------- | ---------------- |
+| 05/01/2020 | 2             | 3              | 150.00%          |
+| 12/01/2020 | 45            | 1              | 2.22%            |
+| 19/01/2020 | 90            | 2              | 2.22%            |
+| 26/01/2020 | 1,896         | 56             | 2.95%            |
+| 02/02/2020 | 12,538        | 310            | 2.47%            |
+| 09/02/2020 | 22,985        | 545            | 2.37%            |
+| 16/02/2020 | 31,449        | 864            | 2.75%            |
+| 23/02/2020 | 9,242         | 690            | 7.47%            |
+| 01/03/2020 | 8,267         | 515            | 6.23%            |
+| 08/03/2020 | 20,207        | 649            | 3.21%            |
+| 15/03/2020 | 60,434        | 2,654          | 4.39%            |
+| 22/03/2020 | 171,320       | 9,697          | 5.66%            |
+| 29/03/2020 | 351,479       | 22,283         | 6.34%            |
+| 05/04/2020 | 466,289       | 36,846         | 7.90%            |
+| 12/04/2020 | 524,359       | 47,675         | 9.09%            |
+| 19/04/2020 | 507,006       | 49,957         | 9.85%            |
+| 26/04/2020 | 540,268       | 44,409         | 8.22%            |
+| 03/05/2020 | 545,638       | 41,130         | 7.54%            |
+| 10/05/2020 | 581,533       | 38,923         | 6.69%            |
+| 17/05/2020 | 610,590       | 36,165         | 5.92%            |
 */
 
 -- Global Numbers: Deaths and Cases - Overall analysis.
@@ -402,16 +402,16 @@ Output (first 20 rows):
 select
 	format(sum(new_cases), 'N0') as [Total Cases],
 	format(sum(new_deaths), 'N0') as [Total Deaths],
-	format(sum(new_deaths)/sum(new_cases), 'P') as [Deaths Percentage]
+	format(sum(new_deaths)/sum(new_cases), 'P') as [Death Percentage]
 from PortfolioProject..COVID_Deaths
 where continent is not null;
 
 /*
 Output:
 
-| Total Cases | Total Deaths | Deaths Percentage |
-| ----------- | ------------ | ----------------- |
-| 773,516,722 | 6,978,040    | 0.90%             |
+| Total Cases | Total Deaths | Death Percentage |
+| ----------- | ------------ | ---------------- |
+| 773,516,722 | 6,978,040    | 0.90%            |
 */
 
 -- Looking at Total Population vs Vaccinations - CTE.
