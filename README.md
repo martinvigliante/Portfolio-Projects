@@ -6,10 +6,6 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 
 ### SQL Projects
 
-#### Nashville Housing (SQL Server)
-- **Description:** This data cleaning project focuses on a large set of Nashville real estate records, with the goal of improving the quality and consistency of the dataset. Employing data cleaning techniques such as error identification and correction, de-duplication, and data format standardization, the structure is optimized to facilitate further analysis.
-- [View Project](/SQL/SQL%20Server/Nashville%20Housing/Nashville%20Housing%20Portfolio%20Project.sql)
-
 #### COVID-19 (SQL Server)
 - **Description:** This data exploration project focuses on the COVID-19 pandemic, analyzing cases, deaths, and vaccination rates. Using SQL to manipulate and visualize data, trends over time and between different regions are examined, providing a detailed view of how the pandemic and the response through vaccination have developed.
 - [View Project](/SQL/SQL%20Server/COVID-19/COVID-19%20Portfolio%20Project.sql)
@@ -18,15 +14,19 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 - **Description:** This project delves into a job listing using PostgreSQL to uncover remote Data Analyst positions. It investigates the key skills needed for these roles and pinpoints the ones that are highest paying. Using SQL queries, it analyzes data across multiple dimensions to optimize career development strategies for data analysts seeking remote opportunities.
 - [View Project](/SQL/PostgreSQL/Data%20Jobs%20&%20Skills/Data%20Jobs%20&%20Skills%20Portfolio%20Project.sql)
 
-### Python Projects
+#### Nashville Housing (SQL Server)
+- **Description:** This data cleaning project focuses on a large set of Nashville real estate records, with the goal of improving the quality and consistency of the dataset. Employing data cleaning techniques such as error identification and correction, de-duplication, and data format standardization, the structure is optimized to facilitate further analysis.
+- [View Project](/SQL/SQL%20Server/Nashville%20Housing/Nashville%20Housing%20Portfolio%20Project.sql)
 
-#### Crypto Analytics
-- **Description:** This project provides an in-depth view of the cryptocurrency market through real-time data collection and analysis. Using Python and various libraries such as Pandas, Seaborn, and Matplotlib, it explores market trends and then presents the results through clear and understandable visualizations.
-- [View Project](/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
+### Python Projects
 
 #### Amazon Web Scraper
 - **Description:** This Python project develops an automated process to monitor the price of a specific product on Amazon. The program checks the desired data daily and stores them in a CSV file. If it detects that the price has fallen below a preset limit, it automatically sends an email alert to the user.
 - [View Project](/Python/Amazon%20Web%20Scraper/Amazon%20Web%20Scraper%20Portfolio%20Project.ipynb)
+
+#### Crypto Analytics
+- **Description:** This project provides an in-depth view of the cryptocurrency market through real-time data collection and analysis. Using Python and various libraries such as Pandas, Seaborn, and Matplotlib, it explores market trends and then presents the results through clear and understandable visualizations.
+- [View Project](/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
 
 ### Tableau Project
 
