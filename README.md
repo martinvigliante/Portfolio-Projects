@@ -34,6 +34,10 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 - **Description:** This Tableau project provides a detailed analysis of the Airbnb rental market in Seattle, Washington, United States, for the year 2016. Using intuitive visualizations, it explores several key variables, including average price by ZIP code and number of rooms, total annual revenue, and property distribution.
 - [View Project](https://public.tableau.com/app/profile/martinvigliante/viz/AirbnbPortfolioProject_17069125735230/Dashboard)
 
+#### COVID-19 Insights
+- **Description:** Expanding on the SQL Server-based [COVID-19 Portfolio Project](/SQL/SQL%20Server/COVID-19/COVID-19%20Portfolio%20Project.sql), this Tableau sequel offers an in-depth view of the pandemic's global impact, featuring visuals on cases, deaths, infection rates, and a global infection map, delivering a concise, yet detailed exploration of the data.
+- [View Project](https://public.tableau.com/app/profile/martinvigliante/viz/COVID-19DashboardPortfolioProject_17126772479260/Dashboard)
+
 ### Power BI Project
 
 #### Data Professionals Survey
