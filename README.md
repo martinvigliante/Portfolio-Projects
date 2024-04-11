@@ -28,7 +28,7 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 - **Description:** This project provides an in-depth view of the cryptocurrency market through real-time data collection and analysis. Using Python and various libraries such as Pandas, Seaborn, and Matplotlib, it explores market trends and then presents the results through clear and understandable visualizations.
 - [View Project](/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
 
-### Tableau Project
+### Tableau Projects
 
 #### Airbnb
 - **Description:** This Tableau project provides a detailed analysis of the Airbnb rental market in Seattle, Washington, United States, for the year 2016. Using intuitive visualizations, it explores several key variables, including average price by ZIP code and number of rooms, total annual revenue, and property distribution.
