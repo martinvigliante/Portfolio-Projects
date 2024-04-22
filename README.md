@@ -28,6 +28,10 @@ Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tool
 - **Description:** This project provides an in-depth view of the cryptocurrency market through real-time data collection and analysis. Using Python and various libraries such as Pandas, Seaborn, and Matplotlib, it explores market trends and then presents the results through clear and understandable visualizations.
 - [View Project](/Python/Crypto%20Analytics/Crypto%20Analytics%20Portfolio%20Project.ipynb)
 
+#### Film Industry
+- **Description:** This project analyzes a film industry dataset, employing tools such as Pandas, NumPy, Seaborn, and Matplotlib to perform data cleaning, analysis, and visualization. The project includes a detailed correlation analysis of key factors and delivers insights that help understand industry trends.
+- [View Project](/Python/Film%20Industry/Film%20Industry%20Portfolio%20Project.ipynb)
+
 ### Tableau Projects
 
 #### Airbnb
