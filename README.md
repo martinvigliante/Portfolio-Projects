@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio! Here I showcase my proficiency in key tools such as SQL, Python, Tableau, Power BI, and Excel, through personal projects that highlight my analytical and technical skills. Each project presented here is a window into my ability to understand and visualize data, revealing my passion for turning complex datasets into clear and understandable visualizations. This portfolio reflects my dedication to continuous learning and my enthusiasm for exploring the vast field of data analysis.
+Welcome to my Portfolio! Here I showcase my proficiency in key tools such as SQL, Python, Tableau, Power BI, and Excel, through personal projects that highlight my analytical and technical skills. Each project presented here is a window into my ability to understand and visualize data, revealing my passion for turning complex datasets into clear and understandable visualizations. This portfolio reflects my dedication to continuous learning and my enthusiasm for exploring the vast field of data analysis.
 
 ## Personal Projects
 
