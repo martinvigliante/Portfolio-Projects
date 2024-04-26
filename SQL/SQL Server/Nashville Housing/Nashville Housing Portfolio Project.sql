@@ -316,6 +316,7 @@ where RowNumber > 1;
 Output:
 
 | UniqueID | ParcelID | LandUse | PropertyAddress | SaleDate | SalePrice | LegalReference | SoldAsVacant | OwnerName | OwnerAddress | Acreage | TaxDistrict | LandValue | BuildingValue | TotalValue | YearBuilt | Bedrooms | FullBath | HalfBath | PropertySplitAddress | PropertySplitCity | OwnerSplitAddress | OwnerSplitCity | OwnerSplitState | RowNumber |
+| -------- | -------- | ------- | --------------- | -------- | --------- | -------------- | ------------ | --------- | ------------ | ------- | ----------- | --------- | ------------- | ---------- | --------- | -------- | -------- | -------- | -------------------- | ----------------- | ----------------- | -------------- | --------------- | --------- |
 */
 
 -- Removing unused columns and renaming selected ones.
