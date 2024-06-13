@@ -18,6 +18,10 @@ Welcome to my Portfolio! Here I showcase my proficiency in key tools such as SQL
 - **Description:** This data cleaning project focuses on a large set of Nashville real estate records, with the goal of improving the quality and consistency of the dataset. Employing data cleaning techniques such as error identification and correction, de-duplication, and data format standardization, the structure is optimized to facilitate further analysis.
 - [View Project](/SQL/SQL%20Server/Nashville%20Housing/Nashville%20Housing%20Portfolio%20Project.sql)
 
+#### World Layoffs (MySQL)
+- **Description:** This data cleaning project aims to enhance the quality and usability of a global dataset of layoff records. It includes error correction, standardization of data formats, and de-duplication to ensure consistency and accuracy. The cleaned dataset is structured to support comprehensive data analysis and reporting.
+- [View Project](/SQL/MySQL/World%20Layoffs/World%20Layoffs%20Portfolio%20Project.sql)
+
 ### Python Projects
 
 #### Amazon Web Scraper
